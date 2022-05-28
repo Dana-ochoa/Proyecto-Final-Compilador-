@@ -1,4 +1,5 @@
-# Proyecto-Final-Compilador-
+#Proyecto-Final-Compilador-
+align = “center” 
 
 CENTRO UNIVERSITARIO DE CIENCIAS EXACTAS E INGENERIAS
 Alumno: Dana Ochoa Velasco
